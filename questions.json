@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "Madrid", "Rome"],
+      "correctAnswer": "Paris",
+      "categorie": "easy"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars",
+      "categorie": "easy"
+    },
+    {
+      "question": "What is the chemical symbol for Gold?",
+      "options": ["Au", "Ag", "Gd", "Go"],
+      "correctAnswer": "Au",
+      "categorie": "medium"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correctAnswer": "William Shakespeare",
+      "categorie": "medium"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale",
+      "categorie":"easy"
+    },
+    {
+      "question": "In which year did the World War II end?",
+      "options": ["1945", "1939", "1918", "1965"],
+      "correctAnswer": "1945",
+      "categorie": "medium"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["12", "14", "16", "10"],
+      "correctAnswer": "12",
+      "categorie": "easy"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Hydrogen", "Oxygen", "Helium", "Carbon"],
+      "correctAnswer": "Hydrogen",
+      "categorie": "easy"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent Van Gogh", "Claude Monet"],
+      "correctAnswer": "Leonardo da Vinci",
+      "categorie": "medium"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["2", "1", "0", "3"],
+      "correctAnswer": "2",
+      "categorie": "easy"
+    },
+    {
+      "question": "Which language is primarily spoken in Brazil?",
+      "options": ["Portuguese", "Spanish", "English", "French"],
+      "correctAnswer": "Portuguese",
+      "categorie": "easy"
+    },
+    {
+      "question": "What is the process by which plants make their food?",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Digestion"],
+      "correctAnswer": "Photosynthesis",
+      "categorie": "medium"
+    },
+    {
+      "question": "Who is known as the 'Father of Computers'?",
+      "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correctAnswer": "Charles Babbage",
+      "categorie": "medium"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon Dioxide",
+      "categorie": "easy"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Gold", "Iron", "Platinum"],
+      "correctAnswer": "Diamond",
+      "categorie": "medium"
+    },
+    {
+      "question": "In which continent is the Sahara Desert located?",
+      "options": ["Africa", "Asia", "Australia", "South America"],
+      "correctAnswer": "Africa",
+      "categorie": "easy"
+    },
+    {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "options": ["100°C", "90°C", "80°C", "120°C"],
+      "correctAnswer": "100°C",
+      "categorie": "easy"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "correctAnswer": "Albert Einstein",
+      "categorie": "medium"
+    },
+    {
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "options": ["Heart", "Lungs", "Liver", "Kidneys"],
+      "correctAnswer": "Heart",
+      "categorie": "easy"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+      "correctAnswer": "Jupiter",
+      "categorie": "easy"
+    }
+  ]
+}
